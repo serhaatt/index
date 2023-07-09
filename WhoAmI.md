@@ -1,4 +1,4 @@
-<img align="center" alt="Coding" width="1000" src="https://www.lambdatest.com/resources/images/news24.gif"><br>
+d<img align="center" alt="Coding" width="1000" src="https://www.lambdatest.com/resources/images/news24.gif"><br>
 
 # 💫 About Me:
 🔭 I am currently a 3rd year student.<br>🤝 I'm in the computer engineering department. I am interested in coding.<br>⚡ I have knowledge about Microsoft .Net Framework, <br>HTML, CSS, Boostrap, Jquery, Ajax, Java, Javascript, MS SQL.<br>🗣️ I know English and Turkish.<br>📬 sgulhaci@gmail.com<br>
